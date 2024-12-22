@@ -1,1 +1,1 @@
-# InstaMart
+# E-Commerce Project [InstaMart]
